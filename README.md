@@ -11,24 +11,24 @@ Ce projet est un **système de gestion de voyages** développé pour démontrer 
 [🔗 Voir la vidéo](https://drive.google.com/file/d/10Uk-1BOsbD6TGP__oLO1cWjQrRGOLrfA/view?usp=sharing)
 
 
-## ✨ Fonctionnalités principales
+##  Fonctionnalités principales
 
 ### Côté Client
 
-- 🧭 Consultation des voyages disponibles par destination et catégorie  
-- 📝 Inscription et connexion sécurisées  
-- 📅 Réservation de voyages avec suivi  
-- 💖 Ajout de voyages aux **favoris**  
-- 🔥 Consultation des **promotions en cours**  
-- 📱 Interface responsive adaptée à tous les écrans
+-  Consultation des voyages disponibles par destination et catégorie  
+-  Inscription et connexion sécurisées  
+-  Réservation de voyages avec suivi  
+-  Ajout de voyages aux **favoris**  
+-  Consultation des **promotions en cours**  
+-  Interface responsive adaptée à tous les écrans
 
 ### Côté Administrateur
 
-- 📄 Tableau de bord pour :
-  - ✅ **Accepter ou refuser les réservations**
-  - 🛠️ **Gérer les voyages disponibles**
-  - 🎯 **Créer, modifier et supprimer des promotions**
-  - 👥 **Gérer les utilisateurs**
+- Tableau de bord pour :
+  -  **Accepter ou refuser les réservations**
+  -  **Gérer les voyages disponibles**
+  -  **Créer, modifier et supprimer des promotions**
+  -  **Gérer les utilisateurs**
 
 
 ## 🚀 Exécution en local
