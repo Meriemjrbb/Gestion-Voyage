@@ -11,14 +11,6 @@ Ce projet est un **système de gestion de voyages** développé pour démontrer 
 [🔗 Voir la vidéo](https://drive.google.com/file/d/10Uk-1BOsbD6TGP__oLO1cWjQrRGOLrfA/view?usp=sharing)
 
 
-## 🛠️ Technologies utilisées
-
-- **PHP** – Pour la logique côté serveur  
-- **HTML5 & CSS3** – Pour la structure et le style des pages  
-- **Bootstrap** – Pour une interface moderne et responsive  
-- **MySQL** – Base de données pour les utilisateurs, voyages et réservations  
-- **WAMP Server** – Environnement local de développement
-
 ## ✨ Fonctionnalités principales
 
 ### Côté Client
