@@ -35,4 +35,4 @@ Ce projet est un **système de gestion de voyages** développé pour démontrer 
 
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/gestion-voyages.git
+   git clone https://github.com/Meriemjrbb/Gestion-Voyage.git
